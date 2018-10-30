@@ -2,7 +2,7 @@
 
 This repository holds the final report and presentation for BioKey: a continuous authantication system for enterprise systems.
 
-We encourage you to check out the [presentation](BioKey%20Report.pdf) to learn more about the project or read in to the details in the [report](BioKey%20Presentation.pdf).
+We encourage you to check out the [presentation](BioKey%20Presentation.pdf) to learn more about the project or read in to the details in the [report](BioKey%20Report.pdf).
 
 All of the code for the project can also be found [here](https://github.com/BioKey).
 
