@@ -2,19 +2,19 @@
 
 This repository holds the final report and presentation for BioKey: a continuous authantication system for enterprise systems.
 
-We encourage you to check out the [presentation](./BioKey Report.pdf) to learn more about the project or read in to the details in the [report](./BioKey Presentation.pdf).
+We encourage you to check out the [presentation](BioKey\ Report.pdf) to learn more about the project or read in to the details in the [report](BioKey\ Presentation.pdf).
 
 All of the code for the project can also be found [here](https://github.com/BioKey).
 
 ## Resources
-[Report](./BioKey Report.pdf)
-[Presentation](./BioKey Presentation.pdf)
+* [Report](BioKey\ Report.pdf)
+* [Presentation](BioKey\ Presentation.pdf)
 
 ## Responsibilities *
 
-Machine Learning Research and BioKey Engine - Connor Giles
-Data Manipulation & Visualization - Josh Weinstein
-Web Portal - Connor Giles & Brandon Kucera
-Java Client - Tony Wu & Brandon Kucera
+* Machine Learning Research and BioKey Engine - Connor Giles
+* Data Manipulation & Visualization - Josh Weinstein
+* Web Portal - Connor Giles & Brandon Kucera
+* Java Client - Tony Wu & Brandon Kucera
 
-* All members contributed to all sections, however, these assigments show core responsibility.
+\* All members contributed to all sections, however, these assigments show core responsibility.
